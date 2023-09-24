@@ -20,15 +20,25 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import bootstrap from "./tech/bootstrap.svg";
+import nextjs from "./tech/nextjs.svg";
+import rubyOnRails from "./tech/rubyOnrails.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import dlr from "./company/dlr.png";
+import uniStuttgart from "./company/uniStuttgart.png";
+import ivicos from "./company/ivicos.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import demoLink from "./demoLink.svg";
+import linkedIn from "./linkedIn.svg";
+import gmail from "./gmail.svg";
+import newARLogo from "./newARLogo.jpeg";
 
 export {
   logo,
@@ -56,7 +66,17 @@ export {
   shopify,
   starbucks,
   tesla,
+  dlr,
+  uniStuttgart,
+  ivicos,
   carrent,
   jobit,
   tripguide,
+  demoLink,
+  linkedIn,
+  gmail,
+  newARLogo,
+  bootstrap,
+  nextjs,
+  rubyOnRails,
 };
